@@ -1,4 +1,4 @@
-# imessage-api
+# imessage api facetime api 苹果推，群发，真机群控
 # 全套imessage推信协议imessage/FaceTime群发技术总结(真机+纯协议)
 # 我们已经完成了全部的协议逆向工作。有兴趣的朋友可以加我✈️:[@Leonard_Ph_D](https://t.me/Leonard_Ph_D)一起沟通学习。
 

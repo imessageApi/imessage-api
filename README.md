@@ -1,6 +1,6 @@
 # imessage api facetime api 苹果推，群发，真机群控
 # 全套imessage推信协议imessage/FaceTime群发技术总结(真机+纯协议)
-# 我们已经完成了全部的协议逆向工作。有兴趣的朋友可以加我✈️:[@Leonard_Ph_D](https://t.me/Leonard_Ph_D)一起沟通学习。
+# 我们已经完成了全部的协议逆向工作。有兴趣的朋友可以加我✈️:[@imessage_api](https://t.me/imessage_api)一起沟通学习。
 
 ## 1，imessage是什么：
 iMessage是苹果公司推出的即时通信软件，可以发送短信、视频等，安全性好。不同于运营商短信/彩信业务，用户仅需要通过WiFi或者蜂窝数据网络进行数据支持，就可以完成通信。
@@ -135,7 +135,7 @@ IDS作为imessage和FaceTime等其他一些服务的密钥服务器，因为服�
 
 到这里，我们就完成了协议端的消息发送与接受。看起来是不是很简单？各位可以根据以上思路自行实现推送协议。
 
-我们已经完成了全部的协议逆向工作。有兴趣的朋友可以加我✈️:[@Leonard_Ph_D](https://t.me/Leonard_Ph_D)一起沟通学习。
+# 我们已经完成了全部的协议逆向工作。有兴趣的朋友可以加我✈️:[@imessage_api](https://t.me/imessage_api)一起沟通学习。
 
 
 
